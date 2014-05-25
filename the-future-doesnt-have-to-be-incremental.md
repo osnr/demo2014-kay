@@ -1,3 +1,9 @@
+# The Future Doesn't Have to Be Incremental
+
+Original video: https://www.youtube.com/watch?v=gTAghAJcO1o
+
+---
+
 SPEAKER: Our final speaker, I'm really, really excited about this, because he is really one of the true pioneers and true inventors in Silicon Valley. He was one of the original group at [Xerox PARC](https://en.wikipedia.org/wiki/Xerox_PARC) when they invented all of the computing technologies that we take for granted. Object-oriented programming languages, the GUI, his [Dynabook](https://en.wikipedia.org/wiki/Dynabook) concept, sort of, you know, you might think it predicted the laptop, but it still hasn't been realized.
 
 And he's also had lifelong commitment to education and using technologies to further that, and we're really gonna learn a lot here from [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay), who's gonna talk to us about how the future doesn't have to be incremental, and the difference between innovation and true invention, so, please, big round of applause for Alan Kay.
